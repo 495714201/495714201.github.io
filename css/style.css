@@ -574,6 +574,12 @@ h6 {
     margin-top: 5px; }
     .post .post-header .post-meta .post-time {
       color: #8a8a8a; }
+    .post .post-header .post-meta .post-author {
+      color: #8a8a8a; }
+    .post .post-header .post-meta .post-tags a {
+      color: #c05b4d; }
+      .post .post-header .post-meta .post-tags a::before {
+        content: '#'; }
   .post .post-toc {
     position: absolute;
     width: 200px;
