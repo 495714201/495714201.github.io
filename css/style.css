@@ -1064,7 +1064,7 @@ span {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
   .tag-cloud .tag-cloud-title {
     display: inline-block;
-    font-size: 18px;
+    font-size: 24px;
     color: #c05b4d;
     border-bottom: 2px solid #c05b4d; }
   .tag-cloud .tag-cloud-tags {
